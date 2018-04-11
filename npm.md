@@ -1,0 +1,1 @@
+- Jest: npm install --save-dev jest
